@@ -1,0 +1,10 @@
+#div {
+    display: none;
+    position: fixed;
+    top: 4%;
+    left: 200px;
+    transform: translateY(-50%);
+    background-color: lightgray;
+    padding: 10px;
+    border: 1px solid gray;
+}
